@@ -1,0 +1,17 @@
+{
+  "name": "aternos-afk-bot",
+  "version": "1.0.0",
+  "description": "Advanced Minecraft Bot for Aternos",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "dependencies": {
+    "express": "^5.2.1",
+    "mineflayer": "^4.37.0",
+    "mineflayer-antiafk": "^1.2.0"
+  },
+  "engines": {
+    "node": ">=22.0.0"
+  }
+}
